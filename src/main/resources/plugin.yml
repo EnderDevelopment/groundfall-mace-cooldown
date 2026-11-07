@@ -1,0 +1,5 @@
+name: MaceLandingCooldown
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Applies a 60-second mace cooldown after a hit when the wielder lands.
